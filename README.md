@@ -1,2 +1,2 @@
-# AngularKambamSeed
-Desenvolvimento de um Kambam utilizando Angular7
+# SpringMongoDB
+Desenvolvimento de uma API simples utilizando o banco de dados NoSQL MongoDB
